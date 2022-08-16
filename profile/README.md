@@ -8,3 +8,4 @@
 ||__|||__|||__|||__|||__|||__|||__|||__|||__||                                             
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|                                             
 </pre>
+![](https://komarev.com/ghpvc/?username=kingteza&style=for-the-badge)
